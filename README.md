@@ -15,4 +15,8 @@ Also, my purpose of this project is to participate in Kaggle open competition an
 Kaggle competition link: https://www.kaggle.com/c/ventilator-pressure-prediction/overview 
 Kaggle dataset: https://www.kaggle.com/c/ventilator-pressure-prediction/data 
 
-Link to presentation slides: https://docs.google.com/presentation/d/1FJvd35Wt5bYwohhNR2QD8MK3hRGbPFHAqw2UTrzyeNg/edit#slide=id.gf54d904448_0_50 
+Link to WIP presentation slides: https://docs.google.com/presentation/d/1FJvd35Wt5bYwohhNR2QD8MK3hRGbPFHAqw2UTrzyeNg/edit#slide=id.gf54d904448_0_50 
+
+Link to Final presentation slides: https://docs.google.com/presentation/d/151ylySJNzQYpLQnmi4BZ6WJMJjRCiZo9IpMuVsU9iZ4/edit?usp=sharing
+
+Link to Final Poster: https://drive.google.com/file/d/1oqSlVBZpZyiCVwTxT3rda1xGEbwCoFa_/view?usp=sharing 
